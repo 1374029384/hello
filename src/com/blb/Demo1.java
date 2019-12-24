@@ -10,5 +10,7 @@ public class Demo1 {
 		System.out.println("gjigeijiegi");
 		
 		System.out.println("hhhhhhhhh");
+		
+		System.out.println("wwwwwwwww");
 	}
 }
